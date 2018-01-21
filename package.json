@@ -1,0 +1,23 @@
+{
+  "name": "dfa-visualizer",
+  "version": "1.0.0",
+  "description": "A basic visualization system for finite automata. Written in Javascript. Unrelated to Nier Automata, unfortunately.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hybrideagle/dfa-visualizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hybrideagle/dfa-visualizer/issues"
+  },
+  "homepage": "https://github.com/hybrideagle/dfa-visualizer#readme",
+  "dependencies": {
+    "cytoscape": "^3.2.8"
+  }
+}
